@@ -1,0 +1,27 @@
+@media screen and (max-width: 1100px){
+    header img{
+        width: 30%;
+    }
+    
+    header button{
+        padding: 0px 10px;
+        width: 30%;
+        font-size: 0.7em;
+    }
+
+    .mainh{
+        margin-top: 13vh;
+        font-size: 2em;
+    }
+
+    #intro p{
+        width: 80%;
+    }
+
+    .pinkbtn{
+        width: 60%;
+    }
+    #intro img{
+        max-width: 80%;
+    }
+}
