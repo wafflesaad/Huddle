@@ -3,6 +3,14 @@
         width: 30%;
     }
     
+    .dimg{
+        display: none;
+    }
+
+    .dbgimgf{
+        display: none;
+    }
+
     header button{
         padding: 0px 10px;
         width: 30%;
